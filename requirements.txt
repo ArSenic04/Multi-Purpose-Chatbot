@@ -1,0 +1,12 @@
+panel>=1.0.0
+sqlalchemy>=2.0.0
+pandas>=1.5.0
+langchain>=0.0.267
+langchain-groq>=0.1.0
+langchain-experimental>=0.0.31
+huggingface-hub>=0.16.0
+chromadb>=0.4.0
+python-dotenv>=1.0.0
+pypdf>=3.15.0
+codegpt>=0.5.0
+uuid>=1.30
